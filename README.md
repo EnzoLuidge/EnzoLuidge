@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo Luidge</h1>
 <h3 align="center">A undergraduate student in Computer Engineering at Insper from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzoluidge&label=Profile%20views&color=0e75b6&style=flat" alt="enzoluidge" /> </p>
-
 - 🌱 I’m currently learning **VHDL, ML, Computer Vision, Graphs, SQL, Cloud**
 
 - 📫 How to reach me **enzoluidge4@gmail.com**
